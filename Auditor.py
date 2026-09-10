@@ -18,6 +18,11 @@ while True:
     else:
         continue
 
+    if inventory >= 500 :
+        print("ALERT! Stock quantity has reached or exceeded 500 units.")
+        break
+    
+
 print ("Total stock quantity:", inventory)
 
 
