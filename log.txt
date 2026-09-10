@@ -1,5 +1,35 @@
 PS C:\Users\Aiden\Desktop\auditor.py> git log
-commit ed40be19050388fba75892365888cb062012c139 (HEAD -> main, origin/main)
+commit c2ac0244c612d8e1f52260604bc7a2d06d9daee8 (HEAD -> main, origin/main)
+Author: YowRP <2604111@sit.singaporetech.edu.sg>
+Date:   Thu Sep 10 22:20:49 2026 +0800
+
+    minor changes to code values and placing
+
+commit 95eb61c77870b2f2dcda311ca7e5bdc02cf1f683
+Author: YowRP <2604111@sit.singaporetech.edu.sg>
+Date:   Thu Sep 10 22:17:30 2026 +0800
+
+    log
+
+commit c156cd7ef237ad10f9afddda6f3a585e71b014ac
+Author: YowRP <2604111@sit.singaporetech.edu.sg>
+Date:   Thu Sep 10 22:16:57 2026 +0800
+
+    log.txt
+
+commit 06ff818c297967ae91447ea5315a67c5d340ea9c
+Author: YowRP <2604111@sit.singaporetech.edu.sg>
+Date:   Thu Sep 10 22:10:39 2026 +0800
+
+    Docker File
+
+commit 695a77ec47af35ff2975c6aad301fcd950415355
+Author: YowRP <2604111@sit.singaporetech.edu.sg>
+Date:   Thu Sep 10 22:03:15 2026 +0800
+
+    Git log
+
+commit ed40be19050388fba75892365888cb062012c139
 Author: YowRP <2604111@sit.singaporetech.edu.sg>
 Date:   Thu Sep 10 22:00:09 2026 +0800
 
@@ -40,4 +70,3 @@ Author: Auditioning <aidenyow2006@gmail.com>
 Date:   Thu Sep 10 21:38:08 2026 +0800
 
     Auditor Start
-(END)
