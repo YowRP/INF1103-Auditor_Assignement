@@ -14,15 +14,15 @@ while True:
     
     inventory += int(user_input)
 
+    if inventory >= 500 :
+            print("ALERT! Stock quantity has reached or exceeded 500 units.")
+            break
+
     user_end = input("Do you want to add more stock? (yes/no): ")
     if user_end.lower() == "no" or user_end.lower() == "n":
         break
     else:
         continue
-
-    if inventory >= 500 :
-        print("ALERT! Stock quantity has reached or exceeded 500 units.")
-        break
 
 
 print ("Total stock quantity:", inventory)
